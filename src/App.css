@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.button {
+  margin: 20px;
+}
+
+.light {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.obs {
+  width: 70%;
+  text-align: center;
+}
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
